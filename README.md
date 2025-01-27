@@ -50,7 +50,7 @@ Any command can be executed in the background by appending an `&` symbol at the 
 
 1. Compile the shell program:
     ```bash
-    gcc -o shell shell.c
+    gcc powershell-mini.c -o shell
     ```
 
 2. Run the shell:
